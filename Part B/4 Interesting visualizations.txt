@@ -1,0 +1,28 @@
+Four Intresting visualizations:
+
+1. every-recorded-meteorite-impact-earth
+https://public.tableau.com/en-us/s/gallery/every-recorded-meteorite-impact-earth
+
+This visualization is interesting as it provides data from 2500 BCE to 2012 AC regarding meteorite impacts. we can filter the impacts by mass and type and get various insights over the world's map.
+
+*******************
+
+2. mapping-college-return-investment
+https://public.tableau.com/en-us/s/gallery/mapping-college-return-investment
+
+As collge tuition costs are a big issue in the US, this visualization provides very rich information regarding various indicators about ROI of college tuitions such as 20-year-ROI, Average Aid amount, Pell Grants, etc.
+
+*******************
+
+3. world-cup-hashtag-war
+https://public.tableau.com/en-us/s/gallery/world-cup-hashtag-war
+
+As one of the worlds most important sport events, the world cup attratcts many businesses and in sponsers. This visualization allows us to see Tweet trends by company during the time of the world cup. One can filter by brand name, company type, dates, etc.
+
+*******************
+
+4. spells-harry-potter
+https://public.tableau.com/en-us/s/gallery/spells-harry-potter
+
+As a big Harry Potter fan, I am very excited seeing a visualization of Harry's Spells apprearence in the book series.
+In this colorful visualization I can find frequencies of spells and their position in the books.
