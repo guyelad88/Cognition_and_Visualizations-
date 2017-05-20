@@ -1,0 +1,13 @@
+link: 
+https://public.tableau.com/profile/publish/Indiancities2/part2-totalpupolation#!/publish-confirm
+
+title: India states by total population
+
+Explain: 	This chart analyze India states by total population.
+	Each square size indicate the amount of population in state.
+	I calculate the amount of population by sum all states cities in dataset.
+
+	We can see that Maharashtra has the largest population with 38 millions of people, and Mizoram has the lowest population.
+	There is a very difference in state size in the big cities populations.
+	
+	

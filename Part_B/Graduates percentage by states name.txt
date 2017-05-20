@@ -1,0 +1,12 @@
+link: 
+https://public.tableau.com/profile/guy.elad#!/vizhome/Indiancities2/part2-boxplot
+
+title: Graduates percentage by states name
+
+Explain: 	This Boxplot chart analyze the Graduates percentage by states name.
+	Each state contain all cities in dataset which in relevant state.
+	Graduates percentage calculated by total graduates /total population.
+	
+	We can see that there are states which graduates percentage are high like Uttarakhand (~20% median), and very low like Gujarat (~11% median)
+	Moreover, there are states with high variance like Nct of Delhi and low variance as Karnataka.
+		

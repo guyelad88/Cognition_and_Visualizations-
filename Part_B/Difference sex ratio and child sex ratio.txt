@@ -1,0 +1,10 @@
+link: 
+https://public.tableau.com/profile/publish/Indiancities2/part2-Diffinsexratio#!/publish-confirm
+
+title: Difference between sex ratio and child sex ratio by state name
+
+Explain: 	This chart analyze Difference between sex ratio and child sex ratio by state name.
+	I group all cities in same state and calculate the different between sex ratio in early age and sex ratio on the later age.
+
+	We can see states which they have stable sex ratio in 0-6 and later age like Orissa,
+	and state with big difference like Kerala with more male in later age in compare to 0-6, and Himachal pradesh with more female in later age.

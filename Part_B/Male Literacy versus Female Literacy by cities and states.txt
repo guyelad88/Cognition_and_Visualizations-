@@ -1,0 +1,12 @@
+link: 
+https://public.tableau.com/profile/publish/Indiancities2/part2-malefemaleliteracy#!/publish-confirm
+
+title: Male Literacy versus Female Literacy by cities and states
+
+Explain: 	This scatter chart analyze Male Literacy versus Female Literacy by cities and states
+	Each point in the chart represent city, and the Male + Female literacy percentage.
+	Point color indicate the cities state.
+	
+	In general, we can see that in most of the cities Male Literacy percentage is higher than female percentage.
+	Moreover, there are cities like Aizawal where percentage are very high (99%), and cities which percentage are quiet low (65%),
+	and we can see that state Kerala has very good Literacy percentage.
